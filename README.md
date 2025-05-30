@@ -1,4 +1,4 @@
-# Bitburner Script Until Mid-game
+# Bitburner Script for Newbie (like me) Until Mid-game
 Bitburner script up-to mid game. Last run on v.2.8.1 \
 My strategy in mid-game: (preferable 64 GB ram available)
 1. Run start.js after Augments, do crime, and wait few minutes until you can buy all programs, especially `Formulas.exe` (maybe a few more if you still in early).
